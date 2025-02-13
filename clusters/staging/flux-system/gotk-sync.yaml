@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: https://github.com/shashidharrao/flux2-kustomize-helm.git
+  url: https://github.com/ramamannava/flux2-kustomize-helm.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
